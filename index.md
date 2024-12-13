@@ -8,3 +8,6 @@ I am a current student at CU in the geology department.
 ## Links ##
 * allie.r.larsen@gmail.com
 * [linkedin](https://www.linkedin.com/in/allie-l-53a9b4136/)
+
+#### Map of University of Colorado - Boulder
+<embed type="text/html" src="cub.html" width="600" height="600">
